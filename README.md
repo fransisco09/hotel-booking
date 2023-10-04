@@ -1,4 +1,4 @@
-# hote-booking
+# hotel - booking
 
 projeck kuliah web progaming 1 
 
